@@ -23,10 +23,10 @@ I'm passionate about building impactful web applications and continually growing
 
 ## 🌟 Favorite Projects
 
-- **RetroHub**  
+- **[RetroHub](https://github.com/Saloni-Maniyar/RetroHub)**  
   *A team retrospection & discussion forum web app (MERN stack).*
 
-- **Interview Prep Guide**  
+- **[Interview Prep Guide](https://github.com/Saloni-Maniyar/interview-prep-guide-website)**  
   *A platform for managing interview resources & preparation (MERN stack).*
 
 ---
