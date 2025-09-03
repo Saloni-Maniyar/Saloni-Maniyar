@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Saloni Maniyar
 
-<!--
-**Saloni-Maniyar/Saloni-Maniyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MCA Student** | Aspiring **Full-Stack Software Developer**  
+✨ Minimalist + Professional with a hint of Creative Personality
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm passionate about building impactful web applications and continually growing as a developer. With solid experience in the **MERN stack**, I love solving problems and crafting user-friendly solutions. I enjoy collaborating on projects, learning new technologies, and sharing knowledge with others.
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Java, JavaScript  
+- **Frontend:** React  
+- **Backend:** Node.js, Express  
+- **Databases:** MongoDB, PostgreSQL, SQL  
+- **Other:** REST APIs, Git & GitHub
+
+---
+
+## 🌟 Favorite Projects
+
+- **RetroHub**  
+  *A team retrospection & discussion forum web app (MERN stack).*
+
+- **Interview Prep Guide**  
+  *A platform for managing interview resources & preparation (MERN stack).*
+
+---
+
+## 📚 Achievements
+
+- Built and deployed full-stack applications using the MERN stack.
+- Developed RESTful APIs and integrated robust database solutions.
+- Proactively contributed to team projects and open-source initiatives.
+
+---
+
+## 🌸 Fun Facts & Hobbies
+
+- Love exploring self-growth & productivity hacks.
+- Curious learner—always diving into new frameworks and career skills.
+- Enjoy journaling, building side projects, and glow-up journeys.
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Saloni Maniyar](https://www.linkedin.com/in/saloni-maniyar/)
+- **GitHub:** [Saloni-Maniyar](https://github.com/Saloni-Maniyar)
+
+---
+
+> *“Always learning, always growing.”*  
