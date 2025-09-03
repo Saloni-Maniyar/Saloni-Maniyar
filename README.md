@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saloni Maniyar
 
 🎓 **MCA Student** | Aspiring **Full-Stack Software Developer**  
-✨ Minimalist + Professional with a hint of Creative Personality
+
 
 ---
 
