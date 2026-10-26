@@ -1,49 +1,53 @@
 # 👋 Hi, I'm Saloni Maniyar
 
-🎓 **MCA Student** | Aspiring **Full-Stack Software Developer**  
-
+💻 **Full-Stack Developer** | ⚙️ **Backend & AI Integration Enthusiast**
 
 ---
 
 ## 🚀 About Me
 
-I'm passionate about building impactful web applications and continually growing as a developer. With solid experience in the **MERN stack**, I love solving problems and crafting user-friendly solutions. I enjoy collaborating on projects, learning new technologies, and sharing knowledge with others.
+I'm a Full-Stack Developer currently working at Brown Box Innovations Pvt. Ltd. in Pune. My expertise lies at the intersection of robust backend engineering and dynamic user interfaces. I specialize in building REST APIs, database-driven applications, and integrating Python-based computer vision (OpenCV) with React frontends. Having recently completed my Master of Computer Applications (MCA), I am passionate about orchestrating AI micro-tools, solving complex problems, and continuously growing as an engineer.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Arsenal
 
-- **Languages:** Java, JavaScript  
-- **Frontend:** React  
-- **Backend:** Node.js, Express  
-- **Databases:** MongoDB, PostgreSQL, SQL  
-- **Other:** REST APIs, Git & GitHub
+- **Languages:** JavaScript (ES6+), TypeScript, Python, SQL, Java (DSA)
+- **Backend & APIs:** Node.js, Express.js, FastAPI, NestJS, REST APIs, JWT
+- **Databases & ORMs:** PostgreSQL, MongoDB, SQLAlchemy, Prisma ORM
+- **Frontend:** React, HTML5, CSS3, Context API, React Router
+- **Tools & Architecture:** Git, GitHub, Docker, CI/CD, Linux, Azure VM, Postman, Swagger/OpenAPI
+- **Data & Integration:** OpenCV, NumPy, Apache Airflow, Metabase, Power BI
 
 ---
 
-## 🌟 Favorite Projects
+## 🌟 Featured Projects
 
-- **[RetroHub](https://github.com/Saloni-Maniyar/RetroHub)**  
-  *A team retrospection & discussion forum web app (MERN stack).*
+- **[RetroHub](https://github.com/Saloni-Maniyar/RetroHub)**
+  *A real-time team retrospection & discussion forum built with Node.js, Express, React, and MongoDB. Features real-time communication via WebSockets, containerized with Docker, and deployed on an Azure VM using a CI/CD workflow.*
 
-- **[Interview Prep Guide](https://github.com/Saloni-Maniyar/interview-prep-guide-website)**  
+- **Industrial Vision System (Professional Work)**
+  *Developing FastAPI backend services that integrate OpenCV for automated physical defect inspection, seamlessly connected to React frontend workflows.*
+
+- **[Interview Prep Guide](https://github.com/Saloni-Maniyar/interview-prep-guide-website)**
   *A platform for managing interview resources & preparation (MERN stack).*
 
 ---
 
-## 📚 Achievements
+## 💼 Experience & Education
 
-- Built and deployed full-stack applications using the MERN stack.
-- Developed RESTful APIs and integrated robust database solutions.
-- Proactively contributed to team projects and open-source initiatives.
+- **Full Stack Developer** @ Brown Box Innovations Pvt. Ltd. *(May 2026 – Present)*
+- **Backend Engineering Intern** @ Inpinite Solutions *(Dec 2025 – May 2026)*
+- **Master of Computer Applications (MCA)** – MES IMCC, Pune (CGPA: 9.49)
+- **Bachelor of Computer Applications (BCA)** (CGPA: 9.84)
 
 ---
 
-## 🌸 Fun Facts & Hobbies
+## 🌸 Fun Facts & Current Focus
 
-- Love exploring self-growth & productivity hacks.
-- Curious learner—always diving into new frameworks and career skills.
-- Enjoy journaling, building side projects, and glow-up journeys.
+- 🚀 Actively participating in weekend AI hackathons (like Lablab.ai/Orchestrate) to build intelligent micro-tools and agents.
+- 🗣️ Refining technical communication and system design skills through daily video explanations and vocal grooming.
+- 📓 Enjoy journaling, exploring self-growth/productivity hacks, and embarking on continuous glow-up journeys.
 
 ---
 
@@ -54,4 +58,4 @@ I'm passionate about building impactful web applications and continually growing
 
 ---
 
-> *“Always learning, always growing.”*  
+> *“Always learning, always growing.”*
